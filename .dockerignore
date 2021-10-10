@@ -1,0 +1,6 @@
+node_modules
+views
+.dockerignore
+Dockerfile
+db.sqlite3
+logs
